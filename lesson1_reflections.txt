@@ -1,0 +1,13 @@
+In the first lesson I've learned how to use "diff" command in command line tools to compare different versions of the document. It's extremely useful for complex project with many lines of code.
+
+It makes it easier to track errors, search for changes made by other team members.
+
+Manual commits give more control over the version history, but require to apply some additional efforts in order to keep things organized well
+
+Because they are used in different context, where tracking individual files makes more sense
+
+It can be helpful to track changes in project even if you are offline
+
+Having an ability to revert changes can make one more confident when writing code
+
+I want to try branches
