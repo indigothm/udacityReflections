@@ -1,3 +1,14 @@
 Notes 4 lesson 2
 
 Staging area allows to select specific files to be committed, giving more control over the project. Working directory is the place on a hard-drive, where repository is located.
+
+Staging area allow to focus only on certain files, making commit size smaller
+
+Branching is useful for experimental features or colaborative work
+
+It allows to understand how the repository is structured much faster 
+
+The result is a stable version with all the latest updates on the project
+
+Manual merging allows to leave the merging process to human expertiese
+
